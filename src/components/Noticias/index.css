@@ -1,0 +1,6 @@
+.noticias {
+  width: 100vw;
+  display: flex;
+  gap: 60px;
+  justify-content: center;
+}
